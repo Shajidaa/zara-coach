@@ -11,7 +11,7 @@ export default function Experience() {
           <div className="w-full lg:w-1/2 order-2 lg:order-2">
             <div className="relative aspect-[4/5] w-full max-w-lg mx-auto overflow-hidden border border-white/5">
               <Image
-                src="/images/SPRINTER RV CONVERSIONS 1.JPG 5.jpg" // Use a high-end interior detail shot
+                src="/images/SPRINTER RV CONVERSIONS 1.JPG 5.JPG" // Use a high-end interior detail shot
                 alt="Premium vehicle interior detailing"
                 fill
                 className="object-cover transition-transform duration-[2s] hover:scale-110"
