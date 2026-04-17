@@ -14,7 +14,7 @@ export default function Intro() {
             
             <div className="relative aspect-[4/3] w-full overflow-hidden grayscale hover:grayscale-0 transition-all duration-700 ease-in-out border border-white/10">
               <Image
-                src="/images/workshop/workshop 3.jpg" // Use workshop one till 4 images here
+                src="/images/workshop/workshop 3.JPG" // Use workshop one till 4 images here
                 alt="Zara Coach Builders Workshop"
                 fill
                 className="object-cover scale-105 group-hover:scale-100 transition-transform duration-700"
