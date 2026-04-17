@@ -33,7 +33,7 @@ export default function CapabilitiesPage() {
         title="Executive Vans"
         text="Executive vans are designed for professional and private transport, combining comfort, usability, and refined interior finishes. Each build focuses on clean integration of seating, lighting, and control systems."
         features={["Reclining captain seating", "Privacy partitions and controls", "Integrated lighting and climate systems", "Premium materials and finishes", "Touchscreen control interfaces"]}
-        images={['/images/executive/1.jpg', '/images/executive/2.jpg', '/images/executive/1.jpg', '/images/executive/2.jpg']} // Reusing as you mentioned having only 2
+        images={['/images/executive/Executive vans.jpg', '/images/executive/Executive vans.jpg 1.jpg', '/images/executive/Executive vans.jpg 1.jpg', '/images/executive/Executive vans.jpg']} // Reusing as you mentioned having only 2
       />
 
       {/* Section 5: Sprinter RV (Reverse) */}
@@ -42,7 +42,7 @@ export default function CapabilitiesPage() {
         title="Sprinter RV Conversions"
         text="We build custom RV-style Sprinter conversions designed for travel, comfort, and extended use. Layouts are developed to maximize space, storage, and functionality while maintaining a clean and durable finish."
         features={["Sleeping configurations", "Storage and cabinetry", "Electrical and lighting systems", "Climate and ventilation solutions", "Integrated control systems"]}
-        images={['/images/sprinter/1.jpg', '/images/sprinter/2.jpg', '/images/sprinter/3.jpg', '/images/sprinter/4.jpg']}
+        images={['/images/SPRINTER RV CONVERSIONS 1.jpg', '/images/SPRINTER RV CONVERSIONS 2.JPG', '/images/SPRINTER RV CONVERSIONS 3.jpg', '/images/SPRINTER RV CONVERSIONS 1.JPG 4.JPG']}
       />
 
       {/* Section 6: Mercedes Metris */}
