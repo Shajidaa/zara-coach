@@ -16,7 +16,7 @@ export default function GlobalProjects() {
           <div className="relative group flex justify-center">
             <div className="relative w-full aspect-[16/10] overflow-hidden">
               <Image
-                src="/images/global/finished-vehicle.png" // Use the interior/exterior shot here
+                src="/images/SPRINTER RV CONVERSIONS 1.jpg" // Use the interior/exterior shot here
                 alt="Zara Coach Builders Global Portfolio"
                 fill
                 className="object-contain transition-transform duration-1000 group-hover:scale-105"

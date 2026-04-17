@@ -4,7 +4,7 @@ export default function CapHero() {
   return (
     <section className="relative h-[60vh] w-full flex items-center justify-center overflow-hidden">
       <Image 
-        src="/images/interior-p2.jpg" 
+        src="/images/SPRINTER RV CONVERSIONS 1.JPG 5.jpg" 
         alt="Zara Coach Capabilities" 
         fill 
         priority 

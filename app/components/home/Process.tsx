@@ -42,7 +42,7 @@ export default function Process() {
           {/* Main Large Rendering */}
           <div className="md:col-span-2 relative aspect-video border border-white/10 overflow-hidden group">
             <Image 
-              src="/images/renderings/rendering-1.jpg" // Using your Limo file renderings
+              src="/images/metris/2.jpg" // Using your Limo file renderings
               alt="Technical Vehicle Rendering"
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-105"
@@ -56,7 +56,7 @@ export default function Process() {
           <div className="grid grid-rows-2 gap-4">
             <div className="relative aspect-video border border-white/10 overflow-hidden">
               <Image 
-                src="/images/renderings/rendering-2.jpg" 
+                src="/images/metris/3.jpg" 
                 alt="Layout Drawing"
                 fill
                 className="object-cover"
@@ -64,7 +64,7 @@ export default function Process() {
             </div>
             <div className="relative aspect-video border border-white/10 overflow-hidden">
               <Image 
-                src="/images/renderings/rendering-3.jpg" 
+                src="/images/metris/4.jpg" 
                 alt="Build Photo"
                 fill
                 className="object-cover"

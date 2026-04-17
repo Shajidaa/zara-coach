@@ -10,7 +10,7 @@ export default function CapIntro() {
           {/* IMAGE SIDE - Using Workshop 4 */}
           <div className="relative aspect-[4/3] w-full overflow-hidden border border-white/10 group">
             <Image
-              src="/images/workshop/workshop-4.jpg" 
+              src="/images/workshop/workshop 4.jpg" 
               alt="Zara Coach Builders Manufacturing Facility"
               fill
               className="object-cover transition-transform duration-1000 group-hover:scale-105"

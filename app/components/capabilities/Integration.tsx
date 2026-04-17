@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 export default function Integration() {
-  const images = ['/int-1.jpg', '/int-2.jpg', '/int-3.jpg', '/int-4.jpg'];
+  const images = ['/images/SPRINTER RV CONVERSIONS 1.jpg', '/images/SPRINTER RV CONVERSIONS 2.JPG', '/images/SPRINTER RV CONVERSIONS 3.jpg', '/images/SPRINTER RV CONVERSIONS 1.JPG 4.JPG'];
   return (
     <section className="py-20 bg-[#050505]">
       <div className="max-w-7xl mx-auto px-6">

@@ -8,10 +8,10 @@ export default function Experience() {
         <div className="flex flex-col lg:flex-row items-center gap-16 lg:gap-24">
           
           {/* IMAGE SIDE - Premium Interior Detail */}
-          <div className="w-full lg:w-1/2 order-2 lg:order-1">
+          <div className="w-full lg:w-1/2 order-2 lg:order-2">
             <div className="relative aspect-[4/5] w-full max-w-lg mx-auto overflow-hidden border border-white/5">
               <Image
-                src="/images/experience/premium-detail.jpg" // Use a high-end interior detail shot
+                src="/images/SPRINTER RV CONVERSIONS 1.JPG 5.jpg" // Use a high-end interior detail shot
                 alt="Premium vehicle interior detailing"
                 fill
                 className="object-cover transition-transform duration-[2s] hover:scale-110"
@@ -22,7 +22,7 @@ export default function Experience() {
           </div>
 
           {/* TEXT SIDE */}
-          <div className="w-full lg:w-1/2 order-1 lg:order-2 space-y-8 text-left">
+          <div className="w-full lg:w-1/2 order-1 lg:order-1 space-y-8 text-left">
             <div className="space-y-4">
               <div className="flex items-center gap-3">
                 <span className="text-[#D4AF37] text-sm font-bold uppercase tracking-[0.4em]">Est. 1990s</span>

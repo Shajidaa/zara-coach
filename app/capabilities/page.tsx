@@ -16,7 +16,7 @@ export default function CapabilitiesPage() {
         title="Limousine Conversions"
         text="We design and build custom limousine conversions focused on passenger experience, layout efficiency, and system integration. Each build is tailored to the intended use, with careful planning of seating configurations, lighting systems, and integrated features."
         features={["Custom seating layouts", "Ambient and LED lighting systems", "Integrated audio and entertainment", "Bar and storage configurations", "Climate and passenger comfort systems"]}
-        images={['/images/limo/1.jpg', '/images/limo/2.jpg', '/images/limo/3.jpg', '/images/limo/4.jpg']}
+        images={['/images/metris/1.jpg', '/images/metris/2.jpg', '/images/metris/3.jpg', '/images/metris/4.jpg']}
       />
 
       {/* Section 3: Party Bus (Text Right, Image Left) */}
@@ -25,7 +25,7 @@ export default function CapabilitiesPage() {
         title="Party Bus Conversions"
         text="Our party bus builds are designed for larger groups, focusing on durability, space optimization, and consistent system performance. Each vehicle is engineered to support high-capacity use while maintaining reliability across all integrated systems."
         features={["High-capacity seating configurations", "Integrated audio and lighting systems", "Reinforced flooring and structure", "Multi-zone control systems", "Custom interior layouts"]}
-        images={['/images/party-bus/1.jpg', '/images/party-bus/2.jpg', '/images/party-bus/3.jpg', '/images/party-bus/4.jpg']}
+        images={['/images/SPRINTER RV CONVERSIONS 1.jpg', '/images/SPRINTER RV CONVERSIONS 2.JPG', '/images/SPRINTER RV CONVERSIONS 3.jpg', '/images/SPRINTER RV CONVERSIONS 1.JPG 4.JPG']}
       />
 
       {/* Section 4: Executive Vans */}

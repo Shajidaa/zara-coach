@@ -56,7 +56,7 @@ export default function BuiltInHouse() {
           <div className="order-1 lg:order-2 relative">
             <div className="relative aspect-square w-full overflow-hidden border border-white/10 shadow-2xl">
               <Image
-                src="/images/fabrication/fabrication-1.jpg" // Use Fabrication + 1 to 7 here
+                src="/Fabrication.jpg" // Use Fabrication + 1 to 7 here
                 alt="In-house fabrication and wiring stage"
                 fill
                 className="object-cover hover:scale-105 transition-transform duration-1000"
